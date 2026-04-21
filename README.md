@@ -58,22 +58,30 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center"><strong>Separator Studio</strong></td>
-    <td width="50%" align="center"><strong>Recent Notes for Dataview</strong></td>
+    <td width="33%" align="center"><strong>Separator Studio</strong></td>
+    <td width="33%" align="center"><strong>Recent Notes for Dataview</strong></td>
+    <td width="33%" align="center"><strong>Social Link Overhaul</strong></td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <a href="https://github.com/sujit-waghmare/custom-separator-studio">
         <img src="https://raw.githubusercontent.com/sujit-waghmare/custom-separator-studio/68d05d1c4821e7b5d970ac76ead1de2fdcd5baee/assets/Separator%20Preview.png" width="100%" />
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <a href="https://github.com/sujit-waghmare/recent-notes-dataview">
         <img src="https://raw.githubusercontent.com/sujit-waghmare/recent-notes-dataview/403ad466454f1ed643bd1c4567d7fd331bb01270/assets/screenshots/recent-notes-preview.png.png" width="100%" />
       </a>
     </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/sujit-waghmare/social-link-overhaul">
+        <img src="https://raw.githubusercontent.com/sujit-waghmare/social-link-overhaul/main/assets/Social-Link-Overhaul.png" width="100%" />
+      </a>
+    </td>
   </tr>
 </table>
+
+---
 
 ## 📊 Stats
 
