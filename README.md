@@ -54,6 +54,23 @@
 
 ---
 
+## ♟️ Recent Repo
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/sujit-waghmare/custom-separator-studio">
+        <img src="https://raw.githubusercontent.com/sujit-waghmare/custom-separator-studio/68d05d1c4821e7b5d970ac76ead1de2fdcd5baee/assets/Separator%20Preview.png" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/sujit-waghmare/recent-notes-dataview">
+        <img src="https://raw.githubusercontent.com/sujit-waghmare/recent-notes-dataview/403ad466454f1ed643bd1c4567d7fd331bb01270/assets/screenshots/recent-notes-preview.png.png" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 📊 Stats
 
 <table width="100%">
