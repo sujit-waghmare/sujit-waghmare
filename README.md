@@ -58,6 +58,10 @@
 
 <table width="100%">
   <tr>
+    <td width="50%" align="center"><strong>Separator Studio</strong></td>
+    <td width="50%" align="center"><strong>Recent Notes for Dataview</strong></td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <a href="https://github.com/sujit-waghmare/custom-separator-studio">
         <img src="https://raw.githubusercontent.com/sujit-waghmare/custom-separator-studio/68d05d1c4821e7b5d970ac76ead1de2fdcd5baee/assets/Separator%20Preview.png" width="100%" />
